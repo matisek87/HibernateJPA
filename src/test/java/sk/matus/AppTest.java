@@ -1,4 +1,4 @@
-package org.example;
+package sk.matus;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
